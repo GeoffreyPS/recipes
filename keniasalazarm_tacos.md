@@ -1,9 +1,16 @@
-Kenia's  recipe:
+#Kenia's  recipe:
 
-Ingredients:
+##Ingredients:
 Chicken
 Flour tortilla
 Guacamole
 
+##How to..
+Heat the tortilla
+Mix chicken and guacamole
+
+Enjoy!
 
 :)
+
+simple....
