@@ -11,3 +11,5 @@ Spices
 
 ### Instructions:
 1)cook it!
+2)put it together!
+3) eat it!
