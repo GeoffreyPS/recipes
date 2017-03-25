@@ -18,6 +18,7 @@
 * Stovetop
 * Frying pan
 * Wooden spoon
+* Serving plate
 
 ##Instructions:
 -------------------
