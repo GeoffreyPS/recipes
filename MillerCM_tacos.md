@@ -8,4 +8,5 @@ Banana
 Raisins
 
 Instructions:
-to be added
+1. Aquire ingredients
+to be completed
