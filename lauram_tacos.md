@@ -1,8 +1,8 @@
 ------------------------------------------------------------------
-#Mushroom and Swiss Tacos:
+# Mushroom and Swiss Tacos:
 ------------------------------------------------------------------
 
-##Ingredients:
+## Ingredients:
 -------------------
 * Various mushrooms
 * Swiss cheese
@@ -13,14 +13,14 @@
 * Vegetable oil
 * Additional toppings to taste (hot sauce, salsa, etc)
 
-##Equipment:
+## Equipment:
 ------------------
 * Stovetop
 * Frying pan
 * Wooden spoon
 * Serving plate
 
-##Instructions:
+## Instructions:
 -------------------
 0. Prep:
    * Slice onions and mushrooms.
